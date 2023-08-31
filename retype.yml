@@ -5,6 +5,10 @@ branding:
   title: ""
   label: ""
   logo: static/logo.png
+  colors:
+    label:                  # Label colors
+      text: "#ff0000"       # Custom color for the label text.
+      background: "#ff0000" # Custom color for the label background.
 favicon: static/favicon.png
 links:
 - text: Rentry Original

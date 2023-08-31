@@ -1,0 +1,3 @@
+### Sites de Jogos Piratas
+
+Sim sim, yah e tal oferecer dinheiro à indústria. Se sim, podes já ir embora, o restante, aqui está a minha seleção de sites porreiros onde podem fazer download de jogos piratas! Vou tentar os separar por diferentes categorias para facilitar o processo de download dos mesmos. Lembrando que muitos dos sites que aparecem por ai no google, acabam por ser todos falsos por isso, recomendo que usem só estes. Se não encontraram mesmo com esta lista, então é porque ainda não saiu o crack. Posso tentar ajudar se realmente existir o crack.

@@ -1,0 +1,1 @@
+![](https://cdn.discordapp.com/attachments/862646082578939924/992751054296993833/extensoes_de_browser_-_header.png)

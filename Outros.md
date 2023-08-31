@@ -1,3 +1,6 @@
+---
+icon: code-of-conduct
+---
 ## Outros
 
 ### Diferentes Formas de Formatar Textos no Discord / Escrever com Cores no Discord

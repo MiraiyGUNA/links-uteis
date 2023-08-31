@@ -1,4 +1,7 @@
-![Imagem Principal](https://cdn.discordapp.com/attachments/499972320748896279/992102787993309274/IMG_20220630_161726.jpg)
+---
+icon: star
+---
+![](https://cdn.discordapp.com/attachments/499972320748896279/992102787993309274/IMG_20220630_161726.jpg)
 
 # Links-Uteis
 

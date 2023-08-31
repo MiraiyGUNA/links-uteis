@@ -1,0 +1,3 @@
+![](https://cdn.discordapp.com/attachments/862646082578939924/1095804499253276822/125.png)
+
+Tal como a malta do 3D, que foi crescendo por causa da enorme ajuda que a comunidade teve para com todos, eu também quero ajudar um pouco os meus camaradas da multimédia. Uma das coisas mais frustantes da vida, é estar no computador... a trabalhar e como tal, eu quero que gastes o mínimo de tempo possível a o fazer. Neste canto da internet, eu quero apenas recomendar os sites que me ajudaram, de alguma mandeira, durante a minha vida da multimédia. Pelo menos o meu tropa Carlos, pediu este canto e eu como grande compincha que sou, irei o ajudar.

@@ -1,7 +1,3 @@
-## Lembra-te! x86 = 32 bits, logo, saca sempre o 64 LEMBRA-TE DA NINTENDO!
-
-![Imagem Programas](https://cdn.discordapp.com/attachments/862646082578939924/992751497811079208/Programas_-_header.png)
-
 ### Downloader de Vídeos
 
 Olá portador de um vício de aquisição enorme! Queres manter os vídeos dos teus youtubers e atrizes porn favoritos? Então, tenho o melhor produto para ti. Diz olá ao Youtube-DL e esta versão com uma interface gráfica. Com este programa, conseguirás fazer isso E MUITO MAIS. Queres fazer download de todos os vídeos do Digibro? Podes o fazer! Precisas de sacar um vídeo para o teu cota que não se cala com a sua playlist de corrida? Podes sacar as músicas sem problemas. Tens um fetiche tão bizarro que conseguirias facilmente guardar esses vídeos badalhocos de punheta guiada e soft voice no teu HD? Então amigo, para esses problemas, tenho a solução de um. Faz já o download do Youtube-DL-GUI, não te irás arrepender!

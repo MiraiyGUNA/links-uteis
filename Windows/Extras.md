@@ -1,70 +1,3 @@
-## Ruindows
-
-![Imagem Windows](https://cdn.discordapp.com/attachments/862646082578939924/992751641969299476/windows_-_header.png)
-
-### Windows 10 19H09 - Tunado pelo Miraiy
-
-~~Eu sei, eu sei. És obrigado a usar o Ruindows 10 como um daily driver mesmo tu que sabes que ele é péssimo. Pode ser por motivos relacionados ao gaming ou até os programas da adobe. Bem, para deixar a experiência um pouco melhor, eu próprio realizei uma ISO de Windows 10. Tentei colocar os melhores elementos enquanto removi as piores. Se sentires-te preocupado por qualquer motivo, não tenhas medo já que testei em diversas máquinas! Eu criei a ISO com a mentalidade do grande público mas se vires algum problema, tens total liberdade de contactar-me para eu resolver esse problema.~~
-
-~~- [Windows 10 19H09](https://mega.nz/folder/zXpWEZjS#SswfJZbhlx_47Z6UuYgmTg)~~
-
-### Ruindows 10 Tunado V2
-
-~~Para os que pediram, aqui apresento o Ruindows 10 Tunado V2. O que mudou nesta nova versão? Bem, poderia fazer uma coisa linda toda arquivada mas sou macaco para isso. Mesmo assim, tentarei fazer algo do gênero.~~
-
-~~- Remoção dos wallpapers "eróticos"~~
-
-~~As imagens da versão anterior não foram aceites por todas as pessoas e também, devido a um erro da versão anterior não era possível mudar a de bloqueio. Como tal, eu removi essas deixando espaço para as defaults. Para quem precisar, estou disposto a fornecer link de download das mesmas.~~
-
-~~- Remoção dos shortcuts do menu botão direito~~
-
-~~Coisas como "Refresh Explorer" e "Elevate XXXX" foram removidas para deixar a experiência ainda mais default do Windows. Estou disposta a ensinar como as colocar para quem quiser.~~
-~~- Mudança para a versão 1809 do Windows~~
-
-~~Muitos vão pensar que esta mudança (como praticamente todas elas) é para piorar mas eu tenho os meus motivos para a mudança. Como principal razão, temos a questão de privacidade e otimização no uso do OS. A versão antiga, a 1909, era melhor em um único quesito, este sendo esgaiming. Com o passar do tempo, percebi que a mudança é pequena e como tal, é preferível a otimização do windows.~~
-
-~~Tenciono fazer outra versão? Bem, se existir procura. O processo de criação de uma custom ISO é algo muito complexo e tedioso. O uso do meu computador é muito abusivo enquanto o faço e origina um dia inteiro de merda. Se realmente houver a necessidade, eu estou disposto a fazer o sacrifício mas não agora. ~~
-
-~~- [Ruindows 10 Tunado V2](https://mega.nz/#F!TChmEQDT!iV9l15O6fEGw0k6GDpurZA)~~
-
-### Windows 10 LTSC Enterprise 21H2
-
-Olá pessoa que acabou de comprar um novo PC com uma 3050. Eu sei… foste tentar o Linux, mas aquela merda nem o básico tinha e para criar a ISO numa pen já foi foda, por isso mesmo que queres voltar para o Ruindows. Nada temas, porque hoje te apresento a melhor versão do Windows possível. Esta versão é a Windows 10 LTSC, que tem suporte ainda uns bons anos, portanto não usas um OS datado sem segurança. Como é a versão LTSC Education gamings e o caralho, não tens nenhum do lixo no sistema (apenas o Edge e o Defender, mas consegues os apagar). Por causa disso, não tens a Microsoft Store, mas não te preocupes de que uma pesquisa básica no Google soluciona o problema. E pronto... é isso. Abre aí o Rufus e manda esta mitada para a pen.
-
-**Os links que uso, são os primeiros, mas se este não funcionar, tenta os restantes**
-
-- [Windows 10 LTSC Enterprise 21H2 - Open Directory](https://opendirectory.luzea.de/luzea/Windows_10_Enterprise_LTSC_2021/)
-- [Windows 10 LTSC Enterprise 21H2 - Stuff.mtt-m1](https://stuff.mtt-m1.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/)
-- [Windows 10 LTSC Enterprise 21H2 - Iso Files](https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/)
-
-### Ativador do Windows / Office e as outras merdas da Microsoft
-
-Ai Micropênis, Micropênis... Tu que antes eras tão bonitinha mas agora estás cheia das tuas macacadas. Por estas e outras (sendo esta o facto que não quero pagar) que recomendo o uso deste ativador. Não só ele ativa o Windows, como ativa mais umas quantas merdas que nem eu sei bem o que fazem. Plus, ele é open source gaming = melhor. Em suma, não usem o outro ativador deste chat...Simplesmente não apaguei porque ele ainda é usável mas eu prefiro que usem este.
-
-**Versão Nova**
-
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-
-Com este aqui, tu podes simplesmente colar este comando no powershell, para teres acesso a ele. Portanto, se estiveres a ter problemas com o teu antivírus / Windows Defender, podes tentar este método. Mesmo com isso em mente, podes também fazer download de um ativador ficheiro, pelo link acima.
-
-`irm https://massgrave.dev/get | iex`
-
-**Versão Antiga**
-
-- [KMS_VL_ALL_AIO.cmd](https://cdn.discordapp.com/attachments/822853185638236180/970760106889326663/KMS_VL_ALL_AIO.cmd)
-
-### Programa para Fazer Download de Versões Do Windows
-
-Se não tiveres com confiança dos links que posto aqui, ou precisas de uma versão que ainda não partilhei, podes utilizar este programa. Ele faz o download, a partir dos servidores da Microsoft. Ele torna-se mais prático do que passar pelos múltiplos links da Microsoft, até conseguires o que queres. Ele também acaba por ser melhor, do que o próprio programa da Microsoft, já que este deixa-te fazer download de qualquer versão do Windows e do Office.
-
-- [Microsoft Windows and Office ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-
-### Debloat Windows
-
-Bom dia meus compadres! Então, gostaste do Ruindows tunado? Pois, estás praticamente lá com relação a tentar deixar o Windows mais decente. Simplesmente só precisas de concluir um passo final e esse é o de dar debloat a ele mesmo. Atualmente, a melhor forma que conheço para o fazer, é usando este website aqui. Em suma, ele tem uns presets em cima, tu clicas num e depois copy colas o código que ele te fornece para um powershell com admin da vida! Se vires que deu algum problema, podes sempre verificar as checksboxs para ver se estás a fazer algo que não querias. Existem outras alternativas, como o privatezilla, mas acredito que esta é a mais potente e "prática"
-
-- [Privacy.Sexy](https://privacy.sexy/)
-
 ### Pack de Pós Instalação do Windows 10
 
 Olá! Sabem, mesmo com toda a estabilidade do mundo, é porreiro ter uma forma rápida de colocar um sistema pronto, da forma mais automática possível. Isso no Linux, é feito com uns bash scripts e similares, o que torna qualquer instalação em frações de segundos. No Windows, dá para fazer algo igual, mas...limitações da minha parte, acredito. Mesmo assim, aqui apresento um montante de ficheiros que levo sempre depois de instalar o Windows 10. Vais poder encontrar coisas como alguns programas essenciais para o uso do computador, debloats do windows, o ativador do próprio e algumas mitadas que coloquei lá. Se seguires todos os itens que tenho, vais ter um sistema porreiro para tudo na tua frente. Como também quero experimentar fazer umas tabelas épicas, aqui vai uma lista do que tens lá dentro e os seus links atualizados, pois aviso épico em baixo.
@@ -136,7 +69,7 @@ Hoje apresento uma ferramenta bastante poderosa para os casos extremos onde o co
 
 ### Ferramenta para Fazer Download do Office
 
-~~- [OfficeRTool](https://github.com/DarkDinosaurEx/OfficeRTool/releases/latest)~~
+- [OfficeRTool](https://github.com/seeumail/OfficeRTool)
 
 Parou de funcionar, porque a ferramenta foi atirada a baixo. Atualmente, a melhor maneira, é utilizando este [site](https://rentry.org/linksuteis#download-de-v%C3%A1rias-vers%C3%B5es-do-windows-e-office-pelos-servidores-da-microsoft) e sacar, um a um, os programas do Office que queremos. Ele saca um .img, que é como um .iso. Basta clicar duas vezes, que o Windows dá mount e depois é dois clicks no setup.exe .
 
