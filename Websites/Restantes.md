@@ -122,5 +122,10 @@ Eu já testei isto em vários sites de Portugal e funciona. Ao contrário de ext
 
 - [12ft](https://12ft.io/)
 
+### Mirror ChatGPT 
+
+Com esta coletânea de sites, tens acesso ao ChatGPT e até mesmo às suas versões premiums, sem criar conta. Assim, parecem realmente ser apenas mirros para o website original. Não fiz um teste aprofundado, mas me para os resultados que tive, estou satisfeito. Não foram resultados de merda.
+
+- [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)
 
 

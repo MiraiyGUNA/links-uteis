@@ -29,6 +29,7 @@ Alguns motores de pesquisa, que fazem o trabalho de procurar o site com o jogo, 
 - [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)
 - [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z#gsc.tab=0)
 - [Manga CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0)
+- [Google Drive Anime](https://databasegdriveplayer.co/anime.php)
 
 ### Software
 
@@ -58,6 +59,9 @@ Alguns motores de pesquisa, que fazem o trabalho de procurar o site com o jogo, 
 - [Streaming Sites Search 2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea#gsc.tab=0)
 - [Streaming Sites Search 3](https://cse.google.com/cse?cx=98916addbaef8b4b6)
 - [Streaming Sites Search 4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
+- [Google Drive Filmes](https://databasegdriveplayer.co/movie.php)
+- [Google Drive TV/Séries](https://databasegdriveplayer.co/series.php)
+- [Google Drive Dramas](https://databasegdriveplayer.co/drama.php)
 
 ### Pesquisar Num Site
 

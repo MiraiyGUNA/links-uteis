@@ -1,6 +1,6 @@
 {
   "version": "3.2.0",
-  "created": "2023-08-31T15:34:15Z",
+  "created": "2023-08-31T20:33:01Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,19 +9,53 @@
       "path": "404.html"
     },
     {
-      "path": "aplicativos/index.html"
+      "path": "aplicativos/index.html",
+      "old": true
+    },
+    {
+      "path": "compras/comprar-videojogos/index.html"
     },
     {
       "path": "compras/index.html"
     },
     {
+      "path": "compras/recomendações-de-computador/index.html"
+    },
+    {
+      "path": "compras/reviews-e-análises/index.html"
+    },
+    {
+      "path": "extensões-de-browser/extensões-convenientes/index.html"
+    },
+    {
+      "path": "extensões-de-browser/extensões-recomendadas/index.html"
+    },
+    {
       "path": "extensões-de-browser/index.html"
+    },
+    {
+      "path": "extensões-de-browser/scripts-de-browser/index.html"
     },
     {
       "path": "index.html"
     },
     {
+      "path": "multimédia/áudio/index.html"
+    },
+    {
+      "path": "multimédia/ferramentas-online/index.html"
+    },
+    {
+      "path": "multimédia/fotografia-e-vetor/index.html"
+    },
+    {
       "path": "multimédia/index.html"
+    },
+    {
+      "path": "multimédia/mockups/index.html"
+    },
+    {
+      "path": "multimédia/vídeo/index.html"
     },
     {
       "path": "outros/index.html"
@@ -30,13 +64,39 @@
       "path": "presets-e-scripts/ffmpeg/index.html"
     },
     {
+      "path": "presets-e-scripts/handbrake/exemplos-de-compressão/index.html"
+    },
+    {
+      "path": "presets-e-scripts/handbrake/melhor-compressão/index.html"
+    },
+    {
       "path": "presets-e-scripts/index.html"
     },
     {
-      "path": "programas/index.html"
+      "path": "presets-e-scripts/mpv/index.html"
     },
     {
-      "path": "programas/programas-portáteis/index.html"
+      "path": "presets-e-scripts/templates/presets/index.html"
+    },
+    {
+      "path": "programas-e-aplicativos/aplicativos/index.html"
+    },
+    {
+      "path": "programas-e-aplicativos/index.html"
+    },
+    {
+      "path": "programas-e-aplicativos/programas-de-computador/programas-portable/index.html"
+    },
+    {
+      "path": "programas-e-aplicativos/programas-de-computador/programas-windows/index.html"
+    },
+    {
+      "path": "programas/index.html",
+      "old": true
+    },
+    {
+      "path": "programas/programas-portáteis/index.html",
+      "old": true
     },
     {
       "path": "resources/css/retype.css"
@@ -81,7 +141,73 @@
       "path": "sitemap.xml.gz"
     },
     {
+      "path": "static/favicon.png"
+    },
+    {
+      "path": "static/logo.png"
+    },
+    {
+      "path": "websites/anime/index.html"
+    },
+    {
+      "path": "websites/desportos-online/index.html"
+    },
+    {
+      "path": "websites/filmes/index.html"
+    },
+    {
       "path": "websites/index.html"
+    },
+    {
+      "path": "websites/livros/index.html"
+    },
+    {
+      "path": "websites/motores-de-pesquisa-de-contéudo/index.html"
+    },
+    {
+      "path": "websites/nsfw/index.html"
+    },
+    {
+      "path": "websites/restantes/index.html"
+    },
+    {
+      "path": "websites/videojogos/isos-e-roms/download-de-isos-e-roms/index.html"
+    },
+    {
+      "path": "websites/videojogos/isos-e-roms/firmwares-bios/index.html"
+    },
+    {
+      "path": "websites/videojogos/isos-e-roms/index.html"
+    },
+    {
+      "path": "websites/videojogos/jogos-piratas/download-direto/index.html"
+    },
+    {
+      "path": "websites/videojogos/jogos-piratas/index.html"
+    },
+    {
+      "path": "websites/videojogos/jogos-piratas/recomendo-estes/index.html"
+    },
+    {
+      "path": "websites/videojogos/jogos-piratas/repacks/index.html"
+    },
+    {
+      "path": "websites/videojogos/jogos-piratas/torrents/index.html"
+    },
+    {
+      "path": "websites/videojogos/websites-extra/index.html"
+    },
+    {
+      "path": "windows/ativador-do-windows/index.html"
+    },
+    {
+      "path": "windows/debloat-windows/index.html"
+    },
+    {
+      "path": "windows/download-windows/index.html"
+    },
+    {
+      "path": "windows/extras/index.html"
     },
     {
       "path": "windows/index.html"
