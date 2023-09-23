@@ -5,6 +5,13 @@ order: 1
 
 ## 2023
 
+### 2023/09/23
+
+- ✔️ - Adicionei a Extensão Copycat
+- ✔️ - Adicionei Guias de Instalação do Windows
+- ✔️ - Adicionei a Ferramenta Online de Multimédia Pixel Sorter
+- ✔️ - Adicionei Template de Documentação Em HTML e CSS para o Webdesing
+
 ### 2023/09/16
 
 - ✔️ - Adicionei website com vários botões de template 

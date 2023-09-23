@@ -90,3 +90,9 @@ Similar ao [remove.bg](https://www.remove.bg/) mas este é focado em apagar um e
 Eu utilizei isto, para um trabalho da universidade. Ele o usei para...gerar uma conversa de chat. Eu o recomendo, já que ele é bastante completo e não tem qualquer tipo de complicação, na hora de criar a imagem. Apenas senti uma coisa em falta, que foi o facto de não deixar colocar um vídeo, mas também, o site apenas gera um "png". Podes sempre tentar simular, ao colocar um ícone de player de vídeo, na imagem e depois enviar para o site.
 
 - [fake-whatsapp-chat-generator](https://fakedetail.com/fake-whatsapp-chat-generator)
+
+### Pixel Sorter
+
+Website que permite fazer as glitch art épicas, de maneira fácil. O resultado é bastante interessante e devido à sua praticidade, eu recomendo!
+
+- [Pixel Sorter](https://pixel-sorter.com/)

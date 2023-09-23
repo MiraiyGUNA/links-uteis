@@ -59,3 +59,9 @@ Esta extensão é capaz de traduzir qualquer tipo de mangá que não esteja trad
 Extensão para dar bypass a sites de notícias e similares, que exigem que pagues para ter acesso ao conteúdo. A extensão não é um simples click para instalar, mas continua a ser simples de o fazer.
 
 - [Bypass Paywalls](https://github.com/iamadamdev?tab=repositories)
+
+#### Copycat
+
+Extensão de Browser que permite copiar vários elementos de uma página, em diferentes formatos. Bastante útil para quem necessita copiar diferentes formas da internet.
+
+- [Copycat](https://chrome.google.com/webstore/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg/related)
