@@ -5,6 +5,12 @@ order: 1
 
 ## 2023
 
+### 2023/09/24
+
+- ✔️ - Grupos Telegram NSFW (Genshin Porn + Cosplay Porn) - *Obrigado Captain*
+- 🚧 - NSFW - Foi criada uma categoria própria para este contéudo
+- 🚧 - Melhorado Pesquisa do Website
+
 ### 2023/09/23
 
 - ✔️ - Adicionei a Extensão Copycat
